@@ -1,16 +1,21 @@
-### Hi there 👋
+```text
+Week: 07 August, 2020 - 14 August, 2020
 
-<!--
-**Jossciipj/Jossciipj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JavaScript   9 hrs 53 mins   ██████████████████░░░░░░░   74.31 % 
+JSON         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Other        58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Prolog       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Groovy       28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+```
+<!--END_SECTION:waka-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexnaiman&theme=tokyonight&show_icons=true" />
+
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnaiman&theme=tokyonight&show_icons=true" />
+
+</p>
+
+---
+⭐️ From [alexnaiman](https://github.com/alexnaiman)
